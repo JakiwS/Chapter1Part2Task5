@@ -1,0 +1,5 @@
+group1 = int(input())
+group2 = int(input())
+group3 = int(input())
+desks = round((group1 + group2 + group3) / 2)
+print(desks)
